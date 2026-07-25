@@ -1,2 +1,2 @@
 # Presentations
-Content from pprevious held presentations
+Content from previous held presentations
